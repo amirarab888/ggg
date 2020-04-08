@@ -8,7 +8,7 @@ public abstract class Account {
     protected String lastName;
     protected String email;
     protected String phoneNumber;
-    protected String passWord;
+    protected String passWord ;
     protected ArrayList<String> offCodes;
     protected double credit;
     protected ArrayList<SellOrBuy> sellOrBuyHistory;
